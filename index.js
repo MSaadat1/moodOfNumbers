@@ -1,5 +1,5 @@
 // return the mood of number in an array
-// The mood of an array refers to the number that appear
+// The mood of an array refers to the number that appears
 // most frequently
 function returnMoodOfNum(array) {
   let frequent = {};
